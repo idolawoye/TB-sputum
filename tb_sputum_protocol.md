@@ -22,7 +22,7 @@ This protocol explains the stepwise process of extracting genomic DNA of Mycobac
 * Add equal voume of digestant solution to the solution. Avoid touching the lip of the specimen container with reagent bottles. Tighten caps firmly
 * Vortex the centrifuge tube until the specimen is liquefied. Check for homogeneity by inverting the tube. An extra pinch of NALC crystals may be added to liquefy excessively mucoid sputa.
 * Allow the centrifuge tube sit at room temperature (15 – 30oC) for 15 min. Do not let specimen to sit longer than 20 min
-* Fill centrifuge tube within 2cm of the top pf the tube with Phosphate Buffer. Swirl the tube to mix. Avoid touching the lip of the specimen conatiner with the reagent bottles
+* Fill centrifuge tube within 2cm of the top of the tube with Phosphate Buffer. Swirl the tube to mix. Avoid touching the lip of the specimen conatiner with the reagent bottles
 * Centrifuge at least 15 min at 3600xg
 * Wipe the top of the tube with disinfectant
 * Under a biosafety cabinet, carefully decant the supernatant into a splash proof container containing a cold sterilant. Wipe the lip of the container with disinfectant. Do not allow the disinfectant to enter the tube
