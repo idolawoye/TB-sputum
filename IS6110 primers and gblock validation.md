@@ -34,7 +34,7 @@ GCACCTAACCGGCTGTGGGTAGCAGACCTCACCTATGTGTCGACCTGGGCAGGGTTCGCCTACGTGGCCTTTGTCACCGA
 |Primer stock concentration      | 100   |
 |Primer loading concentration    | 10    |
 |Desired volume                  | 150   |
-|--------------------------------|-------|
+|                                |       |
 |Primer stock                    | 15    |
 |Nuclease free water             | 135   |
 
