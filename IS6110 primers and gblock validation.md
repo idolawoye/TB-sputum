@@ -1,3 +1,5 @@
+# Primer and g-block validation
+
 ### Primers used from literature
 
 >forward primer
@@ -24,4 +26,16 @@ GCACCTAACCGGCTGTGGGTAGCAGACCTCACCTATGTGTCGACCTGGGCAGGGTTCGCCTACGTGGCCTTTGTCACCGA
 | 0.5 M EDTA          | 2 ul  |
 | 1 M Tris-HCl pH 8.0 | 10 ul |
 | Nuclease free water | 988 ul|
+
+### Primer dilution
+
+| Reagent                    (uM)| Volume|
+|--------------------------------|-------|
+|Primer stock concentration      | 100   |
+|Primer loading concentration    | 10    |
+|Desired volume                  | 150   |
+|--------------------------------|-------|
+|Primer stock                    | 15    |
+|Nuclease free water             | 135   |
+
 
